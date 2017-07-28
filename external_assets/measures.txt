@@ -1,0 +1,170 @@
+Body/head ratio as a function of age:
+1/7 age + 4; 0<age<7
+1/2 age + 3/2; 7<age<11
+1/7 age + 38/7; 11<age<18
+
+Adult head/baby head height ratio
+1.09
+
+
+Height in head units by age: (https://design.tutsplus.com/articles/human-anatomy-fundamentals-advanced-body-proportions--vector-19869)
+1: 4.5
+2: 5
+7: 6
+8: 6
+9: 6
+12: 6.5
+17: 7
+
+Height in cm by age: (http://halls.md/chart-girls-height-w/)
+2: 89
+3: 95
+4: 102
+5: 108
+6: 115
+7: 121
+8: 127
+9: 134
+10: 141
+11: 147
+12: 152
+13: 157
+14: 161
+15: 163
+16: 163
+17: 164
+18: 164
+
+Height of head in cm:
+2: 19
+7: 20.166666
+8: 21.166666
+9: 22.333333
+12: 23.384615
+17: 23.428571
+
+Width of head in cm:
+2: 17.5
+18: 20
+
+
+Torso/legs ratio as a function of age:
+
+
+<g extrasAnus>
+  <g>
+    <image blue_anal_dildo />
+  </g>
+</g extrasAnus>
+<g>
+  <image girl-bottom_background />
+</g>
+<g extrasVagina>
+  <g>
+    <image girl-black_dildo />
+    <image girl-pussy_cum_squirting />
+  </g>
+</g extrasVagina>
+<g>
+  <g hairBackground>
+    <image girl-hair_" + color + "_background />
+  </g hairBackground>
+  <g filter>
+    <image girl-torso.png />
+    <g upper_arms>
+      <g>
+        <image girl-left_arm_upper>
+      </g>
+      <g>
+        <image girl-right_arm_upper>
+      </g>
+    </g upper_arms>
+    <image girl-chest_base />
+    <g legs>
+      <g>
+        <g>
+          <image girl-left_leg_lower />
+        </g>
+        <image girl-left_leg_upper />
+      </g>
+      <g>
+        <g>
+          <image girl-right_leg_lower />
+        </g>
+        <image girl-right_leg_upper />
+      </g>
+    </g legs>
+  </g>
+  <g underwear>
+    <image girl-underwear + n />
+  </g underwear>
+  <g filter>
+    <image girl-*_belly />
+    <image girl-big_big_chest_shadow_on_*_belly />
+    <image girl-*_chest />
+  </g>
+  <image girl-nipples_center />
+  <image girl-*_lactating />
+  <g filter>
+    <image girl-*_Dong_Shadow />
+    <image girl-*_Dong />
+    <image girl-*_Dong_Balls_Shadow />
+    <image girl-*_Dong_Balls />
+  </g filter>
+  <image girl-bra />
+  <g>
+    <g womb>
+      <g>
+        <image girl-Womb_shadow_vagina />
+        <image girl-Womb_a_vagina />
+        <image girl-Womb_b_vagina />
+        <g>
+          <image girl-Womb_cum_vagina />
+          <image girl-Womb_cum_vagina_shading />
+        </g>
+        <image girl-Womb_c_vagina />
+      </g>
+      <g>
+        <image girl-Womb_a />
+        <image girl-Womb_b />
+        <g>
+          <image girl-Womb_cum_* />
+          <image girl-Womb_cum_*_shading />
+        </g>
+        <image girl-Womb_c />
+      </g>
+    </g womb>
+  </g>
+</g>
+<g>
+  {extraAnus}
+  {extraVaginas}
+</g>
+<g>
+  <g clothing>
+    <g>
+      <g>
+        <image girl-white_sandal_left />
+      </g>
+    </g>
+    <g>
+      <g>
+        <image girl-white_sandal_right />
+      </g>
+    </g>
+    <g>
+      <image girl-dress_shadow_top>
+      <g>
+        <image girl-dress_shadow_knee_left_* />
+      </g>
+      <g>
+        <image girl-dress_shadow_knee_right_* />
+      </g>
+      <g>
+        <image girl-dress_adult />
+        <girl-dress_*_chest_adult />
+      </g>
+    </g>
+  </g clothing>
+
+</g>
